@@ -1,0 +1,10 @@
+digraph "Graphical Class Hierarchy"
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir="LR";
+  Node13 [label="Window",height=0.2,width=0.4,color="grey75"];
+  Node13 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node0 [label="models.Popup",height=0.2,width=0.4,color="black",URL="$classmodels_1_1Popup.html"];
+}
