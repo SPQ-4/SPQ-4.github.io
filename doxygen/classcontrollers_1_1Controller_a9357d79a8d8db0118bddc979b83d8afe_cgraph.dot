@@ -1,0 +1,12 @@
+digraph "controllers.Controller.initialize"
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="controllers.Controller.initialize",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node1 [label="controllers.Controller.set\lControllerToControllerUser",height=0.2,width=0.4,color="black",URL="$classcontrollers_1_1Controller.html#a3f09372e4361322349de5677e31186c8"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="controllers.ControllerUser.set\lController",height=0.2,width=0.4,color="black",URL="$classcontrollers_1_1ControllerUser.html#a221c7cfbe34f219a75fcccc0f13da08b"];
+}

@@ -1,0 +1,14 @@
+digraph "controllers.PieChartController.initialize"
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="controllers.PieChartController.initialize",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node1 [label="controllers.PieChartController.loadData",height=0.2,width=0.4,color="black",URL="$classcontrollers_1_1PieChartController.html#aecca7f64e753552d6f5562ec00fe303e"];
+  Node0 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="controllers.ContestController.get\lContestEntryStats",height=0.2,width=0.4,color="black",URL="$classcontrollers_1_1ContestController.html#a8e888e3a98f5b9e300c0902bee641ca6"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node3 [label="db.MySQLDriver.runQuery",height=0.2,width=0.4,color="black",URL="$classdb_1_1MySQLDriver.html#a88dbd83b514760694646f5cac76e9024"];
+}

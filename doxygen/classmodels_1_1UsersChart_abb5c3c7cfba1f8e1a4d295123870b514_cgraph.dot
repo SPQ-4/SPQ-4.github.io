@@ -1,0 +1,10 @@
+digraph "models.UsersChart.start"
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="models.UsersChart.start",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="controllers.UsersChartController.cargar\lDatos",height=0.2,width=0.4,color="black",URL="$classcontrollers_1_1UsersChartController.html#af16df9fe7e9e16d4e6c50bf020d190f5"];
+}

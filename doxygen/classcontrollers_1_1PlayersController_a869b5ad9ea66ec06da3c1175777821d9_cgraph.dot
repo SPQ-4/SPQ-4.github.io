@@ -1,0 +1,14 @@
+digraph "controllers.PlayersController.setPlayersToList"
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir="LR";
+  Node16 [label="controllers.PlayersController.set\lPlayersToList",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node16 -> Node17 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node17 [label="db.PlayersBD.getPlayers",height=0.2,width=0.4,color="black",URL="$classdb_1_1PlayersBD.html#a3c8e0a23666c923eb0a53a99804fd191"];
+  Node17 -> Node18 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node18 [label="db.MySQLDriver.runQuery",height=0.2,width=0.4,color="black",URL="$classdb_1_1MySQLDriver.html#a88dbd83b514760694646f5cac76e9024"];
+  Node17 -> Node19 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node19 [label="models.Player.setPlayer\l_points",height=0.2,width=0.4,color="black",URL="$classmodels_1_1Player.html#ab621eebf1b2ca19f257f53879acc2c70"];
+}

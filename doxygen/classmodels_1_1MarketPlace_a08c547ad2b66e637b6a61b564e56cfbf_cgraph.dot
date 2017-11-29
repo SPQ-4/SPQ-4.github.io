@@ -1,0 +1,16 @@
+digraph "models.MarketPlace.setValueNoOptimize"
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir="LR";
+  Node19 [label="models.MarketPlace.setValue\lNoOptimize",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node19 -> Node20 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node20 [label="models.MarketPlace.setMarket\lTotalPoints",height=0.2,width=0.4,color="black",URL="$classmodels_1_1MarketPlace.html#ac058d1463c7a19648efc31694331f747"];
+  Node20 -> Node21 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node21 [label="models.MarketServiceInterface.set\lMarketTotalPoints",height=0.2,width=0.4,color="black",URL="$interfacemodels_1_1MarketServiceInterface.html#adcd09467dc21c5770e87d2ea2fb4f618"];
+  Node19 -> Node22 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node22 [label="models.MarketPlace.setMarket\lTotalValue",height=0.2,width=0.4,color="black",URL="$classmodels_1_1MarketPlace.html#aff0d65e90fa6a80b72cd4eaec3927b27"];
+  Node22 -> Node23 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node23 [label="models.MarketServiceInterface.set\lMarketTotalValue",height=0.2,width=0.4,color="black",URL="$interfacemodels_1_1MarketServiceInterface.html#abdeb9f449f3c08242037a47e5e933871"];
+}

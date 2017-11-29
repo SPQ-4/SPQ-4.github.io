@@ -1,0 +1,24 @@
+digraph "controllers.ControllerUser.initialize"
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir="LR";
+  Node3 [label="controllers.ControllerUser.initialize",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node4 [label="controllers.ControllerUser.set\lUsersToTable",height=0.2,width=0.4,color="black",URL="$classcontrollers_1_1ControllerUser.html#a986e1385ff6610f52b46dc3bf1f749b3"];
+  Node3 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node5 [label="controllers.ControllerUser.set\lUsersToList",height=0.2,width=0.4,color="black",URL="$classcontrollers_1_1ControllerUser.html#a072a42b45ef27a4ac0ed72ede97bda67"];
+  Node5 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node6 [label="db.MySQLDriver.runQuery",height=0.2,width=0.4,color="black",URL="$classdb_1_1MySQLDriver.html#a88dbd83b514760694646f5cac76e9024"];
+  Node5 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node7 [label="models.Usuario.getFecha\l_registro",height=0.2,width=0.4,color="black",URL="$classmodels_1_1Usuario.html#a08bf9d9db64f2fdcf11ca567b069b3f2"];
+  Node3 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node8 [label="controllers.ControllerUser.filter\lTable",height=0.2,width=0.4,color="black",URL="$classcontrollers_1_1ControllerUser.html#a0dd7c2b8f62fa9b923c9a3667d4d4365"];
+  Node8 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node9 [label="models.Usuario.getEmail",height=0.2,width=0.4,color="black",URL="$classmodels_1_1Usuario.html#a58913330ca5f782b2007fd431967cb84"];
+  Node3 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node10 [label="controllers.Controller.see\lUserInfor",height=0.2,width=0.4,color="black",URL="$classcontrollers_1_1Controller.html#a0f581280270917a4714299a3fd9a99a5"];
+  Node10 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node11 [label="controllers.UserTableController.selectUser",height=0.2,width=0.4,color="black",URL="$classcontrollers_1_1UserTableController.html#a86bb6db512fb64fa9117f2f01a0c51fa"];
+}
