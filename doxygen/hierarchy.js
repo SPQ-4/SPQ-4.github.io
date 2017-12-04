@@ -2,9 +2,9 @@ var hierarchy =
 [
     [ "models.Contest", "classmodels_1_1Contest.html", null ],
     [ "controllers.ContestController", "classcontrollers_1_1ContestController.html", null ],
-    [ "controllers.ContestTableController", "classcontrollers_1_1ContestTableController.html", null ],
-    [ "controllers.Controller", "classcontrollers_1_1Controller.html", null ],
-    [ "controllers.LoginController", "classcontrollers_1_1LoginController.html", null ],
+    [ "models.Incident", "classmodels_1_1Incident.html", null ],
+    [ "models.IncidentManager", "classmodels_1_1IncidentManager.html", null ],
+    [ "controllers.IncidentsTablesController", "classcontrollers_1_1IncidentsTablesController.html", null ],
     [ "models.MainJavaFx", "classmodels_1_1MainJavaFx.html", null ],
     [ "models.MarketPlace", "classmodels_1_1MarketPlace.html", null ],
     [ "models.MarketServiceInterface", "interfacemodels_1_1MarketServiceInterface.html", [
@@ -20,14 +20,18 @@ var hierarchy =
     [ "controllers.UserTableController", "classcontrollers_1_1UserTableController.html", null ],
     [ "models.Usuario", "classmodels_1_1Usuario.html", null ],
     [ "Application", null, [
+      [ "controllers.Controller", "classcontrollers_1_1Controller.html", null ],
       [ "controllers.ControllerGeneral", "classcontrollers_1_1ControllerGeneral.html", null ],
+      [ "models.IncidentsView", "classmodels_1_1IncidentsView.html", null ],
       [ "models.Main2", "classmodels_1_1Main2.html", null ],
-      [ "models.UsersChart", "classmodels_1_1UsersChart.html", null ],
-      [ "models.UserTableView", "classmodels_1_1UserTableView.html", null ]
+      [ "models.UsersChart", "classmodels_1_1UsersChart.html", null ]
     ] ],
     [ "Initializable", null, [
+      [ "controllers.ContestTableController", "classcontrollers_1_1ContestTableController.html", null ],
+      [ "controllers.Controller", "classcontrollers_1_1Controller.html", null ],
       [ "controllers.ControllerGeneral", "classcontrollers_1_1ControllerGeneral.html", null ],
       [ "controllers.ControllerUser", "classcontrollers_1_1ControllerUser.html", null ],
+      [ "controllers.LoginController", "classcontrollers_1_1LoginController.html", null ],
       [ "controllers.NewContestController", "classcontrollers_1_1NewContestController.html", null ],
       [ "controllers.PieChartController", "classcontrollers_1_1PieChartController.html", null ],
       [ "controllers.PlayersController", "classcontrollers_1_1PlayersController.html", null ],

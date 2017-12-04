@@ -148,12 +148,12 @@ Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 <p>comprobamos que la fecha de open es anterior a la fecha de close. no nos hace falta comprobar que sea una fecha porque al meterlo por datepicker solo te deja elegir una fecha real </p><dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramname">dateOpen</td><td>fecha de apertura del torneo </td></tr>
-    <tr><td class="paramname">dateClose</td><td>fecha de cierre del torneo </td></tr>
+    <tr><td class="paramname">open</td><td>fecha de apertura del torneo </td></tr>
+    <tr><td class="paramname">close</td><td>fecha de cierre del torneo </td></tr>
   </table>
   </dd>
 </dl>
-<dl class="section return"><dt>Returns</dt><dd>devolvemos si la de cierre es posterior o no </dd></dl>
+<dl class="section return"><dt>Returns</dt><dd>devolvemos true si las fechas son incorrectas, false si está bien </dd></dl>
 
 <p class="definition">Definition at line <a class="el" href="NewContestMethods_8java_source.html#l00035">35</a> of file <a class="el" href="NewContestMethods_8java_source.html">NewContestMethods.java</a>.</p>
 
@@ -192,16 +192,16 @@ Public Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<p>Comprobamos que el numero de participantes maximo es mayor que el minimo </p><dl class="params"><dt>Parameters</dt><dd>
+<p>Comprobamos que el numero maximo es mayor que el minimo </p><dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">max</td><td></td></tr>
     <tr><td class="paramname">min</td><td></td></tr>
   </table>
   </dd>
 </dl>
-<dl class="section return"><dt>Returns</dt><dd></dd></dl>
+<dl class="section return"><dt>Returns</dt><dd>devuelve true si minimo es menor que maximo </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="NewContestMethods_8java_source.html#l00059">59</a> of file <a class="el" href="NewContestMethods_8java_source.html">NewContestMethods.java</a>.</p>
+<p class="definition">Definition at line <a class="el" href="NewContestMethods_8java_source.html#l00063">63</a> of file <a class="el" href="NewContestMethods_8java_source.html">NewContestMethods.java</a>.</p>
 
 </div>
 </div>
@@ -228,8 +228,15 @@ Public Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+<p>para saber si el string que metemos es un numero o no </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">number</td><td>string con el supuesto numero </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>devolvemos true cuando no es un numero, y false si es un numero </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="NewContestMethods_8java_source.html#l00042">42</a> of file <a class="el" href="NewContestMethods_8java_source.html">NewContestMethods.java</a>.</p>
+<p class="definition">Definition at line <a class="el" href="NewContestMethods_8java_source.html#l00046">46</a> of file <a class="el" href="NewContestMethods_8java_source.html">NewContestMethods.java</a>.</p>
 
 </div>
 </div>
@@ -256,13 +263,13 @@ Public Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<p>En este método comprobamos que el nombre que hemos metido no existe ya en la BD, si ya existe se pone en rojo el background </p><dl class="params"><dt>Parameters</dt><dd>
+<p>En este método comprobamos que el nombre que hemos metido no existe para eso llamamos al metodo correspondiente de la BD </p><dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">name</td><td>nombre que le hemos dado al torneo </td></tr>
   </table>
   </dd>
 </dl>
-<dl class="section return"><dt>Returns</dt><dd>devolvemos si está cogido o no </dd></dl>
+<dl class="section return"><dt>Returns</dt><dd>devolvemos true si está cogido, false si está libre </dd></dl>
 
 <p class="definition">Definition at line <a class="el" href="NewContestMethods_8java_source.html#l00021">21</a> of file <a class="el" href="NewContestMethods_8java_source.html">NewContestMethods.java</a>.</p>
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
@@ -272,6 +279,8 @@ Public Member Functions</h2></td></tr>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
 <div class="center"><img src="classmodels_1_1NewContestMethods_aecd0a65fe05ff4263aa401a1e5142018_cgraph.png" border="0" usemap="#classmodels_1_1NewContestMethods_aecd0a65fe05ff4263aa401a1e5142018_cgraph" alt=""/></div>
 <map name="classmodels_1_1NewContestMethods_aecd0a65fe05ff4263aa401a1e5142018_cgraph" id="classmodels_1_1NewContestMethods_aecd0a65fe05ff4263aa401a1e5142018_cgraph">
+<area shape="rect" id="node2" href="classdb_1_1NewContestBD.html#a72b713f5c83c0a45cd28a8fe8f3eb103" title="db.NewContestBD.testName" alt="" coords="261,13,443,39"/>
+<area shape="rect" id="node3" href="classdb_1_1MySQLDriver.html#a88dbd83b514760694646f5cac76e9024" title="db.MySQLDriver.runQuery" alt="" coords="491,13,661,39"/>
 </map>
 </div>
 

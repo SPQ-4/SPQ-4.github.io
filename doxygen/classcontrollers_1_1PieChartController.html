@@ -91,8 +91,10 @@ $(document).ready(function(){initNavTree('classcontrollers_1_1PieChartController
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a4d9cb7af406b01f5485772210ab81a31"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcontrollers_1_1PieChartController.html#a4d9cb7af406b01f5485772210ab81a31">initialize</a> (URL location, ResourceBundle resources)</td></tr>
 <tr class="separator:a4d9cb7af406b01f5485772210ab81a31"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aecca7f64e753552d6f5562ec00fe303e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcontrollers_1_1PieChartController.html#aecca7f64e753552d6f5562ec00fe303e">loadData</a> (HashMap&lt; String, Double &gt; data)</td></tr>
-<tr class="separator:aecca7f64e753552d6f5562ec00fe303e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae36f02552a0d90e47be91df448aa9570"><td class="memItemLeft" align="right" valign="top">ArrayList&lt; PieChart.Data &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcontrollers_1_1PieChartController.html#ae36f02552a0d90e47be91df448aa9570">loadData</a> (HashMap&lt; String, Double &gt; data)</td></tr>
+<tr class="separator:ae36f02552a0d90e47be91df448aa9570"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7b4536959e035ddc8c9cc1e7d89d3452"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcontrollers_1_1PieChartController.html#a7b4536959e035ddc8c9cc1e7d89d3452">setChartInfo</a> (ArrayList&lt; PieChart.Data &gt; dataList, String title)</td></tr>
+<tr class="separator:a7b4536959e035ddc8c9cc1e7d89d3452"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
@@ -136,8 +138,9 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+<p>Método inicializador. Crea una instancia del controlador de torneos, del cual obtiene la lista de torneos entre dos fechas y llama al método que carga esos datos en un gráfico de tarta que muestra los ingresos por tipo de torneo en ese período de tiempo. </p>
 
-<p class="definition">Definition at line <a class="el" href="PieChartController_8java_source.html#l00020">20</a> of file <a class="el" href="PieChartController_8java_source.html">PieChartController.java</a>.</p>
+<p class="definition">Definition at line <a class="el" href="PieChartController_8java_source.html#l00025">25</a> of file <a class="el" href="PieChartController_8java_source.html">PieChartController.java</a>.</p>
 <div id="dynsection-2" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
   <img id="dynsection-2-trigger" src="closed.png" alt="+"/> Here is the call graph for this function:</div>
 <div id="dynsection-2-summary" class="dynsummary" style="display:block;">
@@ -145,13 +148,17 @@ Public Attributes</h2></td></tr>
 <div id="dynsection-2-content" class="dyncontent" style="display:none;">
 <div class="center"><img src="classcontrollers_1_1PieChartController_a4d9cb7af406b01f5485772210ab81a31_cgraph.png" border="0" usemap="#classcontrollers_1_1PieChartController_a4d9cb7af406b01f5485772210ab81a31_cgraph" alt=""/></div>
 <map name="classcontrollers_1_1PieChartController_a4d9cb7af406b01f5485772210ab81a31_cgraph" id="classcontrollers_1_1PieChartController_a4d9cb7af406b01f5485772210ab81a31_cgraph">
+<area shape="rect" id="node2" href="classcontrollers_1_1PieChartController.html#a7b4536959e035ddc8c9cc1e7d89d3452" title="controllers.PieChartController.set\lChartInfo" alt="" coords="310,5,521,47"/>
+<area shape="rect" id="node3" href="classcontrollers_1_1PieChartController.html#ae36f02552a0d90e47be91df448aa9570" title="controllers.PieChartController.loadData" alt="" coords="293,71,537,98"/>
+<area shape="rect" id="node4" href="classcontrollers_1_1ContestController.html#a8e888e3a98f5b9e300c0902bee641ca6" title="controllers.ContestController.get\lContestEntryStats" alt="" coords="312,123,519,164"/>
+<area shape="rect" id="node5" href="classdb_1_1MySQLDriver.html#a88dbd83b514760694646f5cac76e9024" title="db.MySQLDriver.runQuery" alt="" coords="585,130,756,157"/>
 </map>
 </div>
 
 </div>
 </div>
-<a id="aecca7f64e753552d6f5562ec00fe303e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aecca7f64e753552d6f5562ec00fe303e">&#9670;&nbsp;</a></span>loadData()</h2>
+<a id="ae36f02552a0d90e47be91df448aa9570"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae36f02552a0d90e47be91df448aa9570">&#9670;&nbsp;</a></span>loadData()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -160,7 +167,7 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void controllers.PieChartController.loadData </td>
+          <td class="memname">ArrayList&lt;PieChart.Data&gt; controllers.PieChartController.loadData </td>
           <td>(</td>
           <td class="paramtype">HashMap&lt; String, Double &gt;&#160;</td>
           <td class="paramname"><em>data</em></td><td>)</td>
@@ -173,8 +180,48 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+<p>Método que transforma datos de un mapa a una lista para ser añadidos a un gráfico de tarta. Recibe un mapa con los ingresos generados por cada tipo de torneo, sobre el cual itera para añadir esos datos a una lista que devuelve. </p>
 
-<p class="definition">Definition at line <a class="el" href="PieChartController_8java_source.html#l00025">25</a> of file <a class="el" href="PieChartController_8java_source.html">PieChartController.java</a>.</p>
+<p class="definition">Definition at line <a class="el" href="PieChartController_8java_source.html#l00035">35</a> of file <a class="el" href="PieChartController_8java_source.html">PieChartController.java</a>.</p>
+
+</div>
+</div>
+<a id="a7b4536959e035ddc8c9cc1e7d89d3452"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7b4536959e035ddc8c9cc1e7d89d3452">&#9670;&nbsp;</a></span>setChartInfo()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void controllers.PieChartController.setChartInfo </td>
+          <td>(</td>
+          <td class="paramtype">ArrayList&lt; PieChart.Data &gt;&#160;</td>
+          <td class="paramname"><em>dataList</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">String&#160;</td>
+          <td class="paramname"><em>title</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<p>Método que realiza la carga de datos en un gráfico de tarta (PieChart) y establece su título. Recibe una lista con los ingresos generados por cada tipo de torneo </p>
+
+<p class="definition">Definition at line <a class="el" href="PieChartController_8java_source.html#l00050">50</a> of file <a class="el" href="PieChartController_8java_source.html">PieChartController.java</a>.</p>
 
 </div>
 </div>

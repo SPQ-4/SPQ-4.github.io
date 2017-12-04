@@ -1,0 +1,5 @@
+<map id="controllers.PlayersController.setPlayersToList" name="controllers.PlayersController.setPlayersToList">
+<area shape="rect" id="node2" href="$classdb_1_1PlayersBD.html#a3c8e0a23666c923eb0a53a99804fd191" title="db.PlayersBD.getPlayers" alt="" coords="257,35,416,61"/>
+<area shape="rect" id="node3" href="$classdb_1_1MySQLDriver.html#a88dbd83b514760694646f5cac76e9024" title="db.MySQLDriver.runQuery" alt="" coords="464,5,635,32"/>
+<area shape="rect" id="node4" href="$classmodels_1_1Player.html#ab621eebf1b2ca19f257f53879acc2c70" title="models.Player.setPlayer\l_points" alt="" coords="470,57,629,98"/>
+</map>

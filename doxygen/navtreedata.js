@@ -9,7 +9,7 @@ var NAVTREE =
       [ "Class Index", "classes.html", null ],
       [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
       [ "Class Members", "functions.html", [
-        [ "All", "functions.html", null ],
+        [ "All", "functions.html", "functions_dup" ],
         [ "Functions", "functions_func.html", null ],
         [ "Variables", "functions_vars.html", null ]
       ] ]
@@ -23,7 +23,7 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "ContestController_8java.html",
-"dir_c7f360bbbc106d14bd90d34637b8e044.html"
+"classmodels_1_1NewContestMethods.html#aecd0a65fe05ff4263aa401a1e5142018"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

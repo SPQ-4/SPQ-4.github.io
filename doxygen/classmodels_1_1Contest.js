@@ -1,16 +1,27 @@
 var classmodels_1_1Contest =
 [
-    [ "Contest", "classmodels_1_1Contest.html#a3f8e8e1961632bb6bac8f1387043b67e", null ],
+    [ "Contest", "classmodels_1_1Contest.html#a16e089f3475874efa825d44bf37674f4", null ],
+    [ "descriptionProperty", "classmodels_1_1Contest.html#a39845a65788c8bdc27e1d11f2624c5da", null ],
+    [ "endingDateProperty", "classmodels_1_1Contest.html#a3f3dfc7078928c71f26d0d2ad4e1bcdc", null ],
     [ "entryFeeProperty", "classmodels_1_1Contest.html#af45c1416e9c2176f82f45a29737e11c9", null ],
+    [ "getDescription", "classmodels_1_1Contest.html#a831f6efbbd81da7f7dc56e14f5503467", null ],
+    [ "getEndingDate", "classmodels_1_1Contest.html#a3fd0c90f06573abe8471718b9315ea23", null ],
     [ "getEntryFee", "classmodels_1_1Contest.html#abc7a02726c1bf5102d0799741496b587", null ],
+    [ "getId", "classmodels_1_1Contest.html#a45c14b426580aa430a4356be10fcf597", null ],
     [ "getMaximumParticipants", "classmodels_1_1Contest.html#a315c07dbc498225f5af584b4db11ef2b", null ],
     [ "getMinimumParticipants", "classmodels_1_1Contest.html#a6b481274d52061206b5dd850ecba3c42", null ],
+    [ "getStartingDate", "classmodels_1_1Contest.html#aab54c4c6cf9fa12f03118c4624b3dbd8", null ],
     [ "getTitle", "classmodels_1_1Contest.html#a063cbdb07ee6c4a96a3b0308f264ad4a", null ],
     [ "maximumParticipantsProperty", "classmodels_1_1Contest.html#a101a56758ce6da373eee8891eb2f45f2", null ],
     [ "minimumParticipantsProperty", "classmodels_1_1Contest.html#aea5cc4e908d989d8e0c0374b302bc1c2", null ],
+    [ "setDescription", "classmodels_1_1Contest.html#ac43be9ff05237c5be204b2d051097b3d", null ],
+    [ "setEndingDate", "classmodels_1_1Contest.html#a923667e6afe331b58731b4295d3e63c5", null ],
     [ "setEntryFee", "classmodels_1_1Contest.html#a60ebd357c04ee618f2d59e0662dd6e93", null ],
+    [ "setId", "classmodels_1_1Contest.html#ab66a6152bd6bdd1444dfa5935d3e3ede", null ],
     [ "setMaximumParticipants", "classmodels_1_1Contest.html#a62b198d38ec006a1fb73a41714d0882d", null ],
     [ "setMinimumParticipants", "classmodels_1_1Contest.html#a22adb9545e4c125ee9fe42e3cec2363b", null ],
+    [ "setStartingDate", "classmodels_1_1Contest.html#ac06e782840c034231523e47887e8cf5b", null ],
     [ "setTitle", "classmodels_1_1Contest.html#ab8530ea7d899270076a69a21a0b7f391", null ],
+    [ "startingDateProperty", "classmodels_1_1Contest.html#a3f6470a82133e4d09cd5060b17faa4bb", null ],
     [ "titleProperty", "classmodels_1_1Contest.html#a7853af0c5ea6cf6dbcf02aab9789ad7c", null ]
 ];

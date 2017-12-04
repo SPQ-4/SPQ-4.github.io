@@ -1,0 +1,4 @@
+<map id="controllers.IncidentsTablesController.selectIncident" name="controllers.IncidentsTablesController.selectIncident">
+<area shape="rect" id="node2" href="$classmodels_1_1Incident.html#ab63bbf8a03b606c03f43ac63ad5d1da3" title="models.Incident.getGestionada" alt="" coords="228,5,425,32"/>
+<area shape="rect" id="node3" href="$classmodels_1_1Incident.html#a77698c79247ab4209cc88bc73ed4eb4d" title="models.Incident.getRespuesta" alt="" coords="230,56,423,83"/>
+</map>

@@ -1,6 +1,9 @@
 var namespacemodels =
 [
     [ "Contest", "classmodels_1_1Contest.html", "classmodels_1_1Contest" ],
+    [ "Incident", "classmodels_1_1Incident.html", "classmodels_1_1Incident" ],
+    [ "IncidentManager", "classmodels_1_1IncidentManager.html", "classmodels_1_1IncidentManager" ],
+    [ "IncidentsView", "classmodels_1_1IncidentsView.html", "classmodels_1_1IncidentsView" ],
     [ "Main2", "classmodels_1_1Main2.html", "classmodels_1_1Main2" ],
     [ "MainJavaFx", "classmodels_1_1MainJavaFx.html", null ],
     [ "MarketPlace", "classmodels_1_1MarketPlace.html", "classmodels_1_1MarketPlace" ],
@@ -10,6 +13,5 @@ var namespacemodels =
     [ "Player", "classmodels_1_1Player.html", "classmodels_1_1Player" ],
     [ "Popup", "classmodels_1_1Popup.html", "classmodels_1_1Popup" ],
     [ "UsersChart", "classmodels_1_1UsersChart.html", "classmodels_1_1UsersChart" ],
-    [ "UserTableView", "classmodels_1_1UserTableView.html", "classmodels_1_1UserTableView" ],
     [ "Usuario", "classmodels_1_1Usuario.html", "classmodels_1_1Usuario" ]
 ];

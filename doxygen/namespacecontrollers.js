@@ -5,6 +5,7 @@ var namespacecontrollers =
     [ "Controller", "classcontrollers_1_1Controller.html", "classcontrollers_1_1Controller" ],
     [ "ControllerGeneral", "classcontrollers_1_1ControllerGeneral.html", "classcontrollers_1_1ControllerGeneral" ],
     [ "ControllerUser", "classcontrollers_1_1ControllerUser.html", "classcontrollers_1_1ControllerUser" ],
+    [ "IncidentsTablesController", "classcontrollers_1_1IncidentsTablesController.html", "classcontrollers_1_1IncidentsTablesController" ],
     [ "LoginController", "classcontrollers_1_1LoginController.html", "classcontrollers_1_1LoginController" ],
     [ "NewContestController", "classcontrollers_1_1NewContestController.html", "classcontrollers_1_1NewContestController" ],
     [ "PieChartController", "classcontrollers_1_1PieChartController.html", "classcontrollers_1_1PieChartController" ],

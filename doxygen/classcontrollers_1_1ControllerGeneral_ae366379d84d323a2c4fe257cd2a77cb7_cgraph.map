@@ -1,0 +1,7 @@
+<map id="controllers.ControllerGeneral.obtainMonthKPI" name="controllers.ControllerGeneral.obtainMonthKPI">
+<area shape="rect" id="node2" href="$classcontrollers_1_1ControllerGeneral.html#a693fb2a4695b4dcfc46e68129f8df65f" title="controllers.ControllerGeneral.playedRate" alt="" coords="279,5,532,32"/>
+<area shape="rect" id="node4" href="$classcontrollers_1_1ControllerGeneral.html#a07319cb244ee39186913e4d4d87f35a8" title="controllers.ControllerGeneral.revenues\lByMonth" alt="" coords="284,57,527,98"/>
+<area shape="rect" id="node5" href="$classcontrollers_1_1ControllerGeneral.html#a2e8493cc7c59f1a0608b6b2540d8c12c" title="controllers.ControllerGeneral.by\lUsers" alt="" coords="304,122,507,163"/>
+<area shape="rect" id="node6" href="$classcontrollers_1_1ControllerGeneral.html#a3af34d41c6073ac9ef6cb222cec461ee" title="controllers.ControllerGeneral.users\lMonth" alt="" coords="295,187,516,229"/>
+<area shape="rect" id="node3" href="$classdb_1_1MySQLDriver.html#a88dbd83b514760694646f5cac76e9024" title="db.MySQLDriver.runQuery" alt="" coords="580,97,751,124"/>
+</map>

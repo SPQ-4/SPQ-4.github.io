@@ -3,6 +3,15 @@ var dir_d7fdfbc101c6a1054c616e26429a7c77 =
     [ "Contest.java", "Contest_8java.html", [
       [ "Contest", "classmodels_1_1Contest.html", "classmodels_1_1Contest" ]
     ] ],
+    [ "Incident.java", "Incident_8java.html", [
+      [ "Incident", "classmodels_1_1Incident.html", "classmodels_1_1Incident" ]
+    ] ],
+    [ "IncidentManager.java", "IncidentManager_8java.html", [
+      [ "IncidentManager", "classmodels_1_1IncidentManager.html", "classmodels_1_1IncidentManager" ]
+    ] ],
+    [ "IncidentsView.java", "IncidentsView_8java.html", [
+      [ "IncidentsView", "classmodels_1_1IncidentsView.html", "classmodels_1_1IncidentsView" ]
+    ] ],
     [ "Main2.java", "Main2_8java.html", [
       [ "Main2", "classmodels_1_1Main2.html", "classmodels_1_1Main2" ]
     ] ],
@@ -29,9 +38,6 @@ var dir_d7fdfbc101c6a1054c616e26429a7c77 =
     ] ],
     [ "UsersChart.java", "UsersChart_8java.html", [
       [ "UsersChart", "classmodels_1_1UsersChart.html", "classmodels_1_1UsersChart" ]
-    ] ],
-    [ "UserTableView.java", "UserTableView_8java.html", [
-      [ "UserTableView", "classmodels_1_1UserTableView.html", "classmodels_1_1UserTableView" ]
     ] ],
     [ "Usuario.java", "Usuario_8java.html", [
       [ "Usuario", "classmodels_1_1Usuario.html", "classmodels_1_1Usuario" ]

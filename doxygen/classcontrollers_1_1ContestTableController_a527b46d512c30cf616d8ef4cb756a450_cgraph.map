@@ -1,0 +1,4 @@
+<map id="controllers.ContestTableController.getContests" name="controllers.ContestTableController.getContests">
+<area shape="rect" id="node2" href="$classdb_1_1MySQLDriver.html#a88dbd83b514760694646f5cac76e9024" title="db.MySQLDriver.runQuery" alt="" coords="215,5,385,32"/>
+<area shape="rect" id="node3" href="$classdb_1_1MySQLDriver.html#afbc9c93caa7dc3020d3f5ca4d699c5e1" title="db.MySQLDriver.close" alt="" coords="227,56,373,83"/>
+</map>

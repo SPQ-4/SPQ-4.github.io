@@ -1,0 +1,7 @@
+<map id="models.IncidentsView.start" name="models.IncidentsView.start">
+<area shape="rect" id="node2" href="$classmodels_1_1Incident.html#a2972deb9ab88bc8a6d3433577354aa97" title="models.Incident.setRespuesta" alt="" coords="231,5,423,32"/>
+<area shape="rect" id="node3" href="$classmodels_1_1Incident.html#acf30c0ac53ffd9f2bff236dedf8928ef" title="models.Incident.setGestionada" alt="" coords="229,56,425,83"/>
+<area shape="rect" id="node4" href="$classcontrollers_1_1IncidentsTablesController.html#a2b6dbd7948b28d6834d8128af7f39e78" title="controllers.IncidentsTables\lController.selectIncident" alt="" coords="240,107,415,149"/>
+<area shape="rect" id="node5" href="$classmodels_1_1Incident.html#ab63bbf8a03b606c03f43ac63ad5d1da3" title="models.Incident.getGestionada" alt="" coords="473,89,671,116"/>
+<area shape="rect" id="node6" href="$classmodels_1_1Incident.html#a77698c79247ab4209cc88bc73ed4eb4d" title="models.Incident.getRespuesta" alt="" coords="475,140,669,167"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="models.MarketPlace.setValueNoOptimize" name="models.MarketPlace.setValueNoOptimize">
+<area shape="rect" id="node2" href="$classmodels_1_1MarketPlace.html#ac058d1463c7a19648efc31694331f747" title="models.MarketPlace.setMarket\lTotalPoints" alt="" coords="243,5,439,47"/>
+<area shape="rect" id="node4" href="$classmodels_1_1MarketPlace.html#aff0d65e90fa6a80b72cd4eaec3927b27" title="models.MarketPlace.setMarket\lTotalValue" alt="" coords="243,71,439,112"/>
+<area shape="rect" id="node3" href="$interfacemodels_1_1MarketServiceInterface.html#adcd09467dc21c5770e87d2ea2fb4f618" title="models.MarketServiceInterface.set\lMarketTotalPoints" alt="" coords="487,5,707,47"/>
+<area shape="rect" id="node5" href="$interfacemodels_1_1MarketServiceInterface.html#abdeb9f449f3c08242037a47e5e933871" title="models.MarketServiceInterface.set\lMarketTotalValue" alt="" coords="487,71,707,112"/>
+</map>

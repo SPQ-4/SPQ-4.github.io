@@ -1,0 +1,15 @@
+<map id="controllers.ContestTableController.initialize" name="controllers.ContestTableController.initialize">
+<area shape="rect" id="node2" href="$classcontrollers_1_1ContestTableController.html#a527b46d512c30cf616d8ef4cb756a450" title="controllers.ContestTable\lController.getContests" alt="" coords="217,45,379,86"/>
+<area shape="rect" id="node5" href="$classcontrollers_1_1ContestTableController.html#acb7fafddf922140975bde7c2405651c1" title="controllers.ContestTable\lController.filterTable" alt="" coords="217,110,379,151"/>
+<area shape="rect" id="node7" href="$classcontrollers_1_1Controller.html#a76ea2a1893788c8603cbf367fb45d5d4" title="controllers.Controller.see\lContestInfo" alt="" coords="215,197,381,238"/>
+<area shape="rect" id="node3" href="$classdb_1_1MySQLDriver.html#a88dbd83b514760694646f5cac76e9024" title="db.MySQLDriver.runQuery" alt="" coords="455,5,626,32"/>
+<area shape="rect" id="node4" href="$classdb_1_1MySQLDriver.html#afbc9c93caa7dc3020d3f5ca4d699c5e1" title="db.MySQLDriver.close" alt="" coords="467,56,614,83"/>
+<area shape="rect" id="node6" href="$classmodels_1_1Contest.html#a063cbdb07ee6c4a96a3b0308f264ad4a" title="models.Contest.getTitle" alt="" coords="723,104,880,131"/>
+<area shape="rect" id="node8" href="$classcontrollers_1_1ContestController.html#a0d0528dff45f948d5057837172f66876" title="controllers.ContestController.select\lContest" alt="" coords="429,239,652,281"/>
+<area shape="rect" id="node9" href="$classmodels_1_1Contest.html#a831f6efbbd81da7f7dc56e14f5503467" title="models.Contest.getDescription" alt="" coords="704,155,899,181"/>
+<area shape="rect" id="node10" href="$classmodels_1_1Contest.html#aab54c4c6cf9fa12f03118c4624b3dbd8" title="models.Contest.getStartingDate" alt="" coords="700,205,903,232"/>
+<area shape="rect" id="node11" href="$classmodels_1_1Contest.html#a3fd0c90f06573abe8471718b9315ea23" title="models.Contest.getEndingDate" alt="" coords="703,256,899,283"/>
+<area shape="rect" id="node12" href="$classmodels_1_1Contest.html#a315c07dbc498225f5af584b4db11ef2b" title="models.Contest.getMaximum\lParticipants" alt="" coords="708,307,895,349"/>
+<area shape="rect" id="node13" href="$classmodels_1_1Contest.html#a6b481274d52061206b5dd850ecba3c42" title="models.Contest.getMinimum\lParticipants" alt="" coords="709,373,893,414"/>
+<area shape="rect" id="node14" href="$classmodels_1_1Contest.html#abc7a02726c1bf5102d0799741496b587" title="models.Contest.getEntryFee" alt="" coords="710,439,893,465"/>
+</map>

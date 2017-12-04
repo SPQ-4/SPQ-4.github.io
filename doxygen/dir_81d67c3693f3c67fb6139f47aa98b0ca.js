@@ -15,6 +15,9 @@ var dir_81d67c3693f3c67fb6139f47aa98b0ca =
     [ "ControllerUser.java", "ControllerUser_8java.html", [
       [ "ControllerUser", "classcontrollers_1_1ControllerUser.html", "classcontrollers_1_1ControllerUser" ]
     ] ],
+    [ "IncidentsTablesController.java", "IncidentsTablesController_8java.html", [
+      [ "IncidentsTablesController", "classcontrollers_1_1IncidentsTablesController.html", "classcontrollers_1_1IncidentsTablesController" ]
+    ] ],
     [ "LoginController.java", "LoginController_8java.html", [
       [ "LoginController", "classcontrollers_1_1LoginController.html", "classcontrollers_1_1LoginController" ]
     ] ],

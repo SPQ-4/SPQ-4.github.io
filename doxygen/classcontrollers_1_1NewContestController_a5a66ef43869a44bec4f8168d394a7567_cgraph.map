@@ -1,0 +1,14 @@
+<map id="controllers.NewContestController.checkings" name="controllers.NewContestController.checkings">
+<area shape="rect" id="node2" href="$classmodels_1_1NewContestMethods.html#aecd0a65fe05ff4263aa401a1e5142018" title="models.NewContestMethods.test\lContestName" alt="" coords="342,5,550,47"/>
+<area shape="rect" id="node5" href="$classcontrollers_1_1NewContestController.html#af5749b8adc05d861e26f989351430aa1" title="controllers.NewContestController.set\lBorderContest" alt="" coords="331,71,561,112"/>
+<area shape="rect" id="node6" href="$classmodels_1_1NewContestMethods.html#a7593ce70a791bc31b213b62cdd4ef0ac" title="models.NewContestMethods.check\lDates" alt="" coords="337,136,555,177"/>
+<area shape="rect" id="node7" href="$classcontrollers_1_1NewContestController.html#aad94b1f10b0d2ca7a47828c3c302bde8" title="controllers.NewContestController.set\lBorderDate" alt="" coords="331,201,561,243"/>
+<area shape="rect" id="node8" href="$classcontrollers_1_1NewContestController.html#a003e276cb45f529c2a843f9640c41112" title="controllers.NewContestController.check\lNumbers" alt="" coords="323,319,569,360"/>
+<area shape="rect" id="node10" href="$classcontrollers_1_1NewContestController.html#aad20b6b5f1389b793662f72af809dd66" title="controllers.NewContestController.set\lBorderMaxPart" alt="" coords="617,220,848,261"/>
+<area shape="rect" id="node11" href="$classcontrollers_1_1NewContestController.html#a1f1f06ce899fd6d3cee7ab145bbcfbcc" title="controllers.NewContestController.set\lBorderMinPart" alt="" coords="617,416,848,457"/>
+<area shape="rect" id="node13" href="$classmodels_1_1NewContestMethods.html#a601d7908c8642ca06a4cb2ec4f9cc6c8" title="models.NewContestMethods.check\lMaxMin" alt="" coords="337,436,555,477"/>
+<area shape="rect" id="node3" href="$classdb_1_1NewContestBD.html#a72b713f5c83c0a45cd28a8fe8f3eb103" title="db.NewContestBD.testName" alt="" coords="642,13,823,39"/>
+<area shape="rect" id="node4" href="$classdb_1_1MySQLDriver.html#a88dbd83b514760694646f5cac76e9024" title="db.MySQLDriver.runQuery" alt="" coords="896,13,1067,39"/>
+<area shape="rect" id="node9" href="$classmodels_1_1NewContestMethods.html#a9ee997e847bcf271f39527d98947bef8" title="models.NewContestMethods.check\lNumber" alt="" coords="623,285,842,327"/>
+<area shape="rect" id="node12" href="$classcontrollers_1_1NewContestController.html#acabad3dd5401c618efe037f10754a10d" title="controllers.NewContestController.set\lBorderEntryFee" alt="" coords="617,351,848,392"/>
+</map>

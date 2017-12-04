@@ -1,0 +1,12 @@
+<map id="controllers.ControllerGeneral.initialize" name="controllers.ControllerGeneral.initialize">
+<area shape="rect" id="node2" href="$classcontrollers_1_1ControllerGeneral.html#ae366379d84d323a2c4fe257cd2a77cb7" title="controllers.ControllerGeneral.obtain\lMonthKPI" alt="" coords="300,122,525,163"/>
+<area shape="rect" id="node8" href="$classcontrollers_1_1ControllerGeneral.html#a7ed9881d4dbe4f29e1ce38d42d6619d7" title="controllers.ControllerGeneral.paint\lMonthKPI" alt="" coords="303,187,522,229"/>
+<area shape="rect" id="node9" href="$classcontrollers_1_1ControllerGeneral.html#a0835891edcff9abf6a472b6c6d965869" title="controllers.ControllerGeneral.contests\lTypes" alt="" coords="294,253,531,294"/>
+<area shape="rect" id="node11" href="$classcontrollers_1_1UsersChartController.html#af16df9fe7e9e16d4e6c50bf020d190f5" title="controllers.UsersChartController.cargar\lDatos" alt="" coords="289,318,536,359"/>
+<area shape="rect" id="node3" href="$classcontrollers_1_1ControllerGeneral.html#a693fb2a4695b4dcfc46e68129f8df65f" title="controllers.ControllerGeneral.playedRate" alt="" coords="584,5,837,32"/>
+<area shape="rect" id="node5" href="$classcontrollers_1_1ControllerGeneral.html#a07319cb244ee39186913e4d4d87f35a8" title="controllers.ControllerGeneral.revenues\lByMonth" alt="" coords="589,57,832,98"/>
+<area shape="rect" id="node6" href="$classcontrollers_1_1ControllerGeneral.html#a2e8493cc7c59f1a0608b6b2540d8c12c" title="controllers.ControllerGeneral.by\lUsers" alt="" coords="609,122,812,163"/>
+<area shape="rect" id="node7" href="$classcontrollers_1_1ControllerGeneral.html#a3af34d41c6073ac9ef6cb222cec461ee" title="controllers.ControllerGeneral.users\lMonth" alt="" coords="600,187,821,229"/>
+<area shape="rect" id="node4" href="$classdb_1_1MySQLDriver.html#a88dbd83b514760694646f5cac76e9024" title="db.MySQLDriver.runQuery" alt="" coords="885,129,1056,156"/>
+<area shape="rect" id="node10" href="$classcontrollers_1_1ControllerGeneral.html#a5f183a73c97129a5466468b2a7b8a358" title="controllers.ControllerGeneral.get\lValueContestType" alt="" coords="607,253,815,294"/>
+</map>

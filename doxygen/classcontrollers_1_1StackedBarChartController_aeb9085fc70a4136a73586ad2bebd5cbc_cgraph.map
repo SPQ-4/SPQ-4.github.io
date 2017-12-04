@@ -1,0 +1,5 @@
+<map id="controllers.StackedBarChartController.initialize" name="controllers.StackedBarChartController.initialize">
+<area shape="rect" id="node2" href="$classcontrollers_1_1StackedBarChartController.html#a860aa159fb36040da9bfada47b109e81" title="controllers.StackedBarChart\lController.loadData" alt="" coords="247,5,429,47"/>
+<area shape="rect" id="node3" href="$classcontrollers_1_1ContestController.html#a005324cb756fd63b132dbe04368677d9" title="controllers.ContestController.get\lLastWeekContestStats" alt="" coords="235,71,441,112"/>
+<area shape="rect" id="node4" href="$classdb_1_1MySQLDriver.html#a88dbd83b514760694646f5cac76e9024" title="db.MySQLDriver.runQuery" alt="" coords="489,78,660,105"/>
+</map>

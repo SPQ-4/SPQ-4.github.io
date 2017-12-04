@@ -1,0 +1,11 @@
+<map id="models.MainJavaFx.main" name="models.MainJavaFx.main">
+<area shape="rect" id="node2" href="$classdb_1_1PlayersBD.html#a3c8e0a23666c923eb0a53a99804fd191" title="db.PlayersBD.getPlayers" alt="" coords="233,53,391,80"/>
+<area shape="rect" id="node5" href="$classmodels_1_1MarketPlace.html#a5eb091c04ecbcee29a78125ed9b94b30" title="models.MarketPlace.setValue" alt="" coords="217,104,407,131"/>
+<area shape="rect" id="node6" href="$classmodels_1_1MarketPlace.html#a08c547ad2b66e637b6a61b564e56cfbf" title="models.MarketPlace.setValue\lNoOptimize" alt="" coords="217,155,407,197"/>
+<area shape="rect" id="node3" href="$classdb_1_1MySQLDriver.html#a88dbd83b514760694646f5cac76e9024" title="db.MySQLDriver.runQuery" alt="" coords="467,5,638,32"/>
+<area shape="rect" id="node4" href="$classmodels_1_1Player.html#ab621eebf1b2ca19f257f53879acc2c70" title="models.Player.setPlayer\l_points" alt="" coords="473,57,632,98"/>
+<area shape="rect" id="node7" href="$classmodels_1_1MarketPlace.html#ac058d1463c7a19648efc31694331f747" title="models.MarketPlace.setMarket\lTotalPoints" alt="" coords="455,143,651,185"/>
+<area shape="rect" id="node9" href="$classmodels_1_1MarketPlace.html#aff0d65e90fa6a80b72cd4eaec3927b27" title="models.MarketPlace.setMarket\lTotalValue" alt="" coords="455,209,651,250"/>
+<area shape="rect" id="node8" href="$interfacemodels_1_1MarketServiceInterface.html#adcd09467dc21c5770e87d2ea2fb4f618" title="models.MarketServiceInterface.set\lMarketTotalPoints" alt="" coords="699,143,919,185"/>
+<area shape="rect" id="node10" href="$interfacemodels_1_1MarketServiceInterface.html#abdeb9f449f3c08242037a47e5e933871" title="models.MarketServiceInterface.set\lMarketTotalValue" alt="" coords="699,209,919,250"/>
+</map>

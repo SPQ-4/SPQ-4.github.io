@@ -1,0 +1,5 @@
+<map id="controllers.LoginController.login" name="controllers.LoginController.login">
+<area shape="rect" id="node2" href="$classcontrollers_1_1LoginController.html#af590c134b8883641f1fcd53a335af705" title="controllers.LoginController.check\lCredentials" alt="" coords="256,23,464,65"/>
+<area shape="rect" id="node3" href="$classmodels_1_1Main2.html#a38d37698372c48252587b3026bfd1e09" title="models.Main2.getDBDriver" alt="" coords="512,5,684,32"/>
+<area shape="rect" id="node4" href="$classdb_1_1MySQLDriver.html#a88dbd83b514760694646f5cac76e9024" title="db.MySQLDriver.runQuery" alt="" coords="513,56,683,83"/>
+</map>
